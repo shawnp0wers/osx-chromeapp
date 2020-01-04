@@ -4,6 +4,8 @@ Little script/app to create a standalone Google Chrome App on OSX. MUCH better t
 
 Download the scpt file, open it in Script Editor (in OSX). 
 
+Have Google Chrome installed.
+
 Click the "play" arrow.
 
 Make app.
