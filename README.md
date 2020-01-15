@@ -12,4 +12,6 @@ Make app.
 
 Celebrate.
 
+Or don't. Icons seem to be broken in OSX Catalina. Like everything else in Catalina. Just click cancel and it should make an app with a generic icon.
+
 This is a public domain script I got from a website that someone used to package a shell script that someone else wrote, blah blah blah. It works really well.
